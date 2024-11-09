@@ -7,3 +7,4 @@ This records what I practiced and learned from Scientific-Computing-with-Python 
 - Expense Tracker
 - Case Converter
 - Square_Root_Bisection
+- Arithmetic Arranger
