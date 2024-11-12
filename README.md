@@ -8,3 +8,6 @@ This records what I practiced and learned from Scientific-Computing-with-Python 
 - Case Converter
 - Square_Root_Bisection
 - Arithmetic Arranger
+- Regular Expressions Password Generator
+
+
