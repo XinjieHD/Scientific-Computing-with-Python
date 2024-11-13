@@ -9,5 +9,6 @@ This records what I practiced and learned from Scientific-Computing-with-Python 
 - Square_Root_Bisection
 - Arithmetic Arranger
 - Regular Expressions Password Generator
+- Shortest Path Algorithm
 
 
